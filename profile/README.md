@@ -42,14 +42,14 @@ Only Private Repository
  <h5>
   <p>
    [BLEDM] <br>
-   Wakaama-DBMS Server (C implementation) <br>
-   Keywords : LwM2Mm <br>
+   DBMS-Wakaama System Link Server (C implementation) <br>
+   Keywords : LwM2Mm, DBMS <br>
    <br>
    
    [IOTGW] <br>
-   DDS IDL Compiler (C/C++ implementation) <br>
+   DBMS-DDS System Link Sever (C/C++ implementation) <br>
+   DDS IDL Compiler for DBMS (C, Python implementation) <br>
    Keywords : DDS, DBMS <br>
-
   </p>
  </h5>
 </h3>

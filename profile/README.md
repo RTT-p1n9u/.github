@@ -42,8 +42,10 @@ Only Private Repository
  <h5>
   <p>
    [BLEDM] <br>
-   DBMS-Wakaama System Link Server (C implementation) <br>
-   Keywords : LwM2Mm, DBMS, ODBC <br>
+   DBMS-Leshan System Link Server (Java implementation) <br>
+   Wakaama Client Simulator (C implementation) <br>
+   DBMS-SNMP System Link Server (C implementation) <br>
+   Keywords : LwM2Mm, DBMS, ODBC, JDBC, SNMP, NMS <br>
    <br>
    
    [IOTGW] <br>

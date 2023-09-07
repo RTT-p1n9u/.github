@@ -11,7 +11,7 @@ Only Private Repository
 
 <h3>
   <div>
-   <img src="https://cdn.discordapp.com/attachments/816971132812787712/1064400953870135356/logo.png"> <br>
+   <img src="https://cdn.discordapp.com/attachments/941406024810778694/1095164276274110464/logo.png"> <br>
    <br>
    <p>
     Researcher, System Engineer, Technical Research Institute <br>

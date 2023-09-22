@@ -1,59 +1,35 @@
-<h1>
- <a href="http://www.realtimetech.co.kr/">REALTIMETECH</a> Co.,Ltd Personal Workspace
-</h1>
+# [REALTIMETECH Co.,Ltd](http://www.realtimetech.co.kr/) Personal Workspace
+**`Only Private Repository`**
 
-Only Private Repository
-
-
-<h2>
-  Dowon Kim
-</h2>
-
-<h3>
-  <div>
-   <img src="https://cdn.discordapp.com/attachments/941406024810778694/1095164276274110464/logo.png"> <br>
-   <br>
-   <p>
-    Researcher, System Engineer, Technical Research Institute <br>
-    Spatial Information Convergence Team <br>
-   </p>
-  </div>
-</h3>
+## Dowon Kim
+<img src="https://cdn.discordapp.com/attachments/941406024810778694/1095164276274110464/logo.png"> <br>
+[ 2023.01.16 ~ ] <br>
+Current in <a href="http://www.realtimetech.co.kr/">REALTIMETECH</a> Co.,Ltd <br>
+Researcher, Technical Research Institute <br>
+System SW Developer & Engineer <br>
+Spatial Information Convergence Team <br>
+<br>
 
 <hr>
 
-<h3>
- <div>
-  Contact
- </div>
- <h5>
-  <a href="mailto:cybrphntm4@hanyang.ac.kr">
-    cybrphntm4@realtimetech.co.kr
-  </a>
- </h5>
-</h3>
+### Contact
+
+<a href="mailto:cybrphntm4@hanyang.ac.kr">cybrphntm4@realtimetech.co.kr</a>
 
 <hr>
 
-<h3>
- <div>
-  On Going Projects
- </div>
- <h5>
-  <p>
-   [BLEDM] <br>
-   DBMS-Leshan System Link Server (Java implementation) <br>
-   Wakaama Client Simulator (C implementation) <br>
-   DBMS-SNMP System Link Server (C implementation) <br>
-   Keywords : LwM2Mm, DBMS, ODBC, JDBC, SNMP, NMS <br>
-   <br>
-   
-   [IOTGW] <br>
-   DBMS-DDS System Link Sever (C/C++ implementation) <br>
-   DDS IDL Compiler for DBMS (C, Python implementation) <br>
-   Keywords : DDS, DBMS, ODBC <br>
-  </p>
- </h5>
-</h3>
+### On Going Projects
+
+**`[BLEDM]`** <br>
+DBMS-Leshan System Link Server (Java implementation) <br>
+Wakaama Client Simulator (C implementation) <br>
+DBMS-SNMP System Link Server (C implementation) <br>
+Keywords : LwM2M(Wakaama, Leshan), DBMS(Influx, Kairos), ODBC, JDBC, SNMP(NMS) <br>
+
+**`[IOTGW]`** <br>
+DBMS-DDS System Link Sever (C/C++ implementation) <br>
+DDS IDL Compiler for DBMS (C, Python implementation) <br>
+DBMS Data Statistics Module (C/C++ implementation) <br>
+Keywords : DDS(GurumNetworks), DBMS(Kairos), ODBC <br>
 
 <hr>

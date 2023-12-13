@@ -23,7 +23,7 @@ Spatial Information Convergence Team <br>
 **`[BLEDM]`** <br>
 DBMS-Leshan System Link Server (Java implementation) <br>
 Wakaama Client Simulator (C implementation) <br>
-DBMS-SNMP System Link Server (C implementation) <br>
+DBMS-SNMP System Link Server (Java implementation) <br>
 Keywords : LwM2M(Wakaama, Leshan), DBMS(Influx, Kairos), ODBC, JDBC, SNMP(NMS) <br>
 
 **`[IOTGW]`** <br>
